@@ -1,4 +1,4 @@
-package byITAcademy_Ivanchikov;
+package by.itacademy.ivanchikov;
 
 public class MyWork {
     public static void main(String[] args) {

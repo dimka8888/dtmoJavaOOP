@@ -1,6 +1,4 @@
-package byITAcademy_Ivanchikov;
-
-import javax.lang.model.element.Name;
+package by.itacademy.ivanchikov;
 
 public class User {
     private String name;

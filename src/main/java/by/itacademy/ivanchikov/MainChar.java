@@ -1,4 +1,4 @@
-package byITAcademy_Ivanchikov;
+package by.itacademy.ivanchikov;
 
 public class MainChar {
     public static void main(String[] args) {
